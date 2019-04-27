@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 sudo apt-get install build-essential clang bison flex libreadline-dev gawk \
     tcl-dev libffi-dev git mercurial graphviz xdot pkg-config python python3 \
